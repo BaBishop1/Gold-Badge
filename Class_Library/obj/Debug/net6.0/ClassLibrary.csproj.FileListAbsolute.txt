@@ -1,0 +1,12 @@
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Bisho\CodingFoundations\Gold_Badge\Class_Library\obj\Debug\net6.0\ref\ClassLibrary.dll
